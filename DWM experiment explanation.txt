@@ -1,0 +1,63 @@
+DWM experiment explanation.
+
+
+
+WEKA CHE STEPS DWM CHA BOOK MADHE END LA DILELE AHET
+BUT MAJHA KADE BOOK NAHIYE
+FRIEND KADE VICHAR
+(YT LINKS PEKSHA, BOOK CHA END LA DILAY NA TE BETTER AHE)
+
+(IF BOOK MADHE NAHI BHETLA TAR MAG, EXP AIM DIRECT GOOGLE KAR MAJHE STEPS YETIL)
+
+
+
+1. Case study on building Data Warehouse/Data Mart. 
+	a. Write detailed problem statement and design dimensional modelling 
+	b. Creation of star and snowflake schema. 
+	c. ETL operations 
+(FOLLOW PDF)
+
+
+
+2. Implementation of OLAP operation 
+(HEA PHP MYADMIN VAR KARAYCHA AHE, PDF CH FOLLOW KAR)
+
+
+
+3. Perform Data Exploration and Data Pre-Processing task on data sets using WEKA Tool
+	Data Exploration task:
+	(Ask from friends) (Or DWM cha book madhe, end la dilela ahe step wise kasa karaycha)
+
+	Data Pre-Processing task:
+	https://www.youtube.com/watch?v=nBfvRkc5TBo
+
+
+4. Implementation of naïve Bayesian Classifier using Weka Tool.
+https://www.youtube.com/watch?v=QB3HgJlxMKI&t=655s
+
+
+5. Implementation of Association Rule Mining Algorithm (Apriori) using Weka Tool
+https://www.youtube.com/watch?v=bMd5_8j1wJ8
+(YA VAR 2-3 VIDEOS AHET, IF HI NAHI SAMJLI TAR DUSRI SEARCH KAR)
+
+
+6. Implementation of clustering algorithms using Weka Tool 
+https://www.tutorialspoint.com/weka/weka_clustering.htm
+(YA STEPS FOLLOW KAR)
+
+
+7. Implementation of Naïve Bayes Algorithm using any programming language like Python 
+https://chatgpt.com/share/67168951-2e94-800b-9bba-09e0f87d55c6
+
+
+8. Implementation of clustering algorithm (k-means and k-medions) using languages like python
+https://chatgpt.com/share/67168ec9-d5d0-8010-b93e-6b0adc718131
+
+
+9. Implementation of Association Rule Mining Algorithm (Apriori) using Python.
+https://chatgpt.com/share/67169080-ddc0-8010-9da2-e51dc854841c
+
+
+10. Implementation of Page rank / HITS Algorithm.
+https://chatgpt.com/share/671692da-c448-8005-9e93-d04d17c0ef8a
+
